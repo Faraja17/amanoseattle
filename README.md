@@ -19,4 +19,8 @@ Contributors:
 | :--------------------------------------------------------------------------------------------: |
 | ![Canva Mockup](https://github.com/Faraja17/amanoseattle/blob/main/images/canva2.png?raw=true) |
 
+|                            <b>Coded Mockup on AmIResponsive Website</b>                             |
+| :-------------------------------------------------------------------------------------------------: |
+| ![AmIResponsive](https://github.com/Faraja17/amanoseattle/blob/main/images/responsive.png?raw=true) |
+
 [View Live HTML/CSS Mockup on Codepen!](https://codepen.io/faraja17/full/yLKZWQb)
