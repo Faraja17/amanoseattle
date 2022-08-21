@@ -8,7 +8,7 @@ Contributors:
 
 - Isabel Amaya
 - Blanca Lara-Gomez
-- Marisol
+- Marisol Morales
 - Michelle
 - Mario Seijo
 - Faraja Thompson
