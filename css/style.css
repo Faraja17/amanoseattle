@@ -1,6 +1,6 @@
 body {
     background-color: #fffbf0;
-    font-size: 1em;
+    font-size: 1.2em;
     font-family: "Acme";
     font-weight: 300;
     font-variant: small-caps;
@@ -8,13 +8,13 @@ body {
 
 @media screen and (min-width: 600px) {
     body {
-      font-size: 1.1em;
+      font-size: 1.3em;
     }
 }
 
 @media screen and (min-width: 1000px) {
     body {
-      font-size: 1.2em;
+      font-size: 1.4em;
     }
 }
 
@@ -90,9 +90,8 @@ header {
 }
 
 p {
-    width: 75%;
     text-align: center;
-    margin: auto;
+    margin: 0, 30%, 0;
 }
 
 .portfolio {
@@ -119,7 +118,7 @@ p {
     }
 }
 
-.contact-us {
+.connect-with-us {
     margin: auto;
     text-align: center;
     padding-top: 5%;
@@ -196,7 +195,7 @@ footer {
 
 @media screen and (min-width: 1000px) {
     .tiktok {
-        width: 5%;
+        width: 3%;
     }
 }
 
