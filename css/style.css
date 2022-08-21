@@ -82,7 +82,12 @@ header {
     font-family: Acme;
     font-weight: 600;
     font-size: 2.5em;
-    padding: 0 0 20px;
+    border: 0;
+}
+
+.border1 {
+    display: block;
+    margin: 0 auto 10px;
 }
 
 .about {
@@ -131,7 +136,7 @@ p {
     background-image: -ms-linear-gradient(top, #addae4, #1a7ca3);
     background-image: -o-linear-gradient(top, #addae4, #1a7ca3);
     background-image: linear-gradient(to bottom, #addae4, #1a7ca3);
-    margin-top: 5%;
+    margin-top: 20px;
     
 }
 
@@ -144,13 +149,19 @@ p {
     background-image: linear-gradient(to bottom, #c1e9f2, #228bb5);
     }
 
+.border {
+    display: block;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
 footer {
     display: flexbox;
     background-color: #286181;
-    padding: 70px 0 20px;
-    margin-top: 100px;
+    padding: 20px 0 20px;
+    margin-top: 50px;
     text-align: center;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .footer-link {
@@ -168,34 +179,34 @@ footer {
 /* dia de los muertes and tiktok icons */
 
 .ddlm {
-    width: 10%;
+    width: 6%;
 }
 
 @media screen and (min-width: 600px) {
     .ddlm {
+        width: 4%;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .ddlm {
+        width: 2%;
+    }
+}
+
+.tiktok {
+    width: 7%;
+}
+
+@media screen and (min-width: 600px) {
+    .tiktok {
         width: 5%;
     }
 }
 
 @media screen and (min-width: 1000px) {
-    .ddlm {
-        width: 3%;
-    }
-}
-
-.tiktok {
-    width: 12%;
-}
-
-@media screen and (min-width: 600px) {
     .tiktok {
-        width: 7%;
-    }
-}
-
-@media screen and (min-width: 1000px) {
-    .tiktok {
-        width: 3%;
+        width: 2%;
     }
 }
 
