@@ -18,6 +18,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
 </head>
   <body>
+
+    <header>
+        <a class="skip-link" href='#main'>Skip to content</a>
+    </header>
+
     <div class="nav-container">
         <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #286181;">
             <a class="navbar-brand" href="#"><img class="navLogo" src="images/white logo.png" alt="amano logo"></a>
@@ -27,30 +32,30 @@
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#aboutMe">About Me</a>
+                        <a class="nav-link" href="#about">About</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#portfolio">Portfolio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact Me</a>
+                        <a class="nav-link" href="https://www.amanoseattle.com/?page=1&limit=60&sort_by=popularity_score&sort_order=desc">Online Shop</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Products</a>
+                        <a class="nav-link" href="#contact-us">Contact Us</a>
                     </li>
                 </ul>
             </div>
         </nav>
     </div>
 
-    <div class="aboutMe" id="aboutMe">
+    <section class="about" id="about">
         <h1 class="level-1">BIENVENIDOS</h1>
-        <h2 class="level-2">About Me</h2>
+        <h2 class="level-2" id="main">About</h2>
         
 
-    </div>
+    </section>
 
-    <div class="portfolio" id="portfolio">
+    <section class="portfolio" id="portfolio">
         <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
               <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -89,7 +94,12 @@
               <span class="visually-hidden">Next</span>
             </button>
           </div>
-    </div>
+    </section>
+
+    <section class="contact-us" id="contact-us">
+        <h2 class="level-2" id="main">We would love your feedback!</h2>
+        <a href="https://www.amanoseattle.com/contact-us" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">contact us</a>
+    </section>
 
 	<script src="scripts/index.js"></script>
 
