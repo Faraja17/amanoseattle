@@ -19,4 +19,4 @@ Contributors:
 | :--------------------------------------------------------------------------------------------: |
 | ![Canva Mockup](https://github.com/Faraja17/amanoseattle/blob/main/images/canva2.png?raw=true) |
 
-[View Live Mockup on Codepen!](https://codepen.io/faraja17/full/yLKZWQb)
+[View Live HTML/CSS Mockup on Codepen!](https://codepen.io/faraja17/full/yLKZWQb)
