@@ -2,6 +2,15 @@
 
 2022 Latinos in Tech Hackathon Project
 
+Contributors:
+
+- Isabel Amaya
+- Blanca Lara-Gomez
+- Marisol
+- Michelle
+- Mario Seijo
+- Faraja Thompson
+
 |                                 <b>Collaborating on Canva</b>                                 |
 | :-------------------------------------------------------------------------------------------: |
 | ![Canva Mockup](https://github.com/Faraja17/amanoseattle/blob/main/images/canva.png?raw=true) |
