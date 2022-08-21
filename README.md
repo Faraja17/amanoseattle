@@ -2,6 +2,8 @@
 
 2022 Latinos in Tech Hackathon Project, August 20 - 21
 
+This was my first time working on a team and working to fulfill the needs of an actual client! It was a tremendous experience!
+
 Contributors:
 
 - Isabel Amaya
