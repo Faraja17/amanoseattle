@@ -26,3 +26,7 @@ Contributors:
 | ![AmIResponsive](https://github.com/Faraja17/amanoseattle/blob/main/images/responsive.png?raw=true) |
 
 [View Live HTML/CSS Mockup on Codepen!](https://codepen.io/faraja17/full/yLKZWQb)
+
+and
+
+[View Live HTML/CSS Mockup on AmIResponsive!](https://ui.dev/amiresponsive?url=https://codepen.io/faraja17/full/NWYJPQV)
